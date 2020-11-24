@@ -9,7 +9,7 @@ A python program that assists users with rearranging the songs on their playlist
 5) Enter the Url of the playlist you want to reorder (Click the 3 dots - Share - Copy Playlist Url)
 
 # ToDo:
-- load reordered songs into seperate playlist 
+- Load reordered songs into seperate playlist 
 - BPI/genre sort options
 - Rearrange more than 100 tracks
 - Add Error Handling
